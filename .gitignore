@@ -1,0 +1,43 @@
+Credential/
+# InstagramCrawler/INSTAGRAM/LEGA/PopularFeed/comments/*
+# InstagramCrawler/INSTAGRAM/LEGA/PopularFeed/medias/*
+# InstagramCrawler/INSTAGRAM/LEGA/TimeLineFeed/comments/*
+# InstagramCrawler/INSTAGRAM/LEGA/TimeLineFeed/medias/*
+# InstagramCrawler/INSTAGRAM/LEGA/TimeLineFeed/suggested_users/*
+# InstagramCrawler/INSTAGRAM/LEGA/Users/comments/*
+# InstagramCrawler/INSTAGRAM/LEGA/Users/followers/*
+# InstagramCrawler/INSTAGRAM/LEGA/Users/followings/*
+# InstagramCrawler/INSTAGRAM/LEGA/Users/media_likers/*
+# InstagramCrawler/INSTAGRAM/LEGA/Users/medias/*
+
+# InstagramCrawler/INSTAGRAM/M5S/PopularFeed/comments/*
+# InstagramCrawler/INSTAGRAM/M5S/PopularFeed/medias/*
+# InstagramCrawler/INSTAGRAM/M5S/TimeLineFeed/comments/*
+# InstagramCrawler/INSTAGRAM/M5S/TimeLineFeed/medias/*
+# InstagramCrawler/INSTAGRAM/M5S/TimeLineFeed/suggested_users/*
+# InstagramCrawler/INSTAGRAM/M5S/Users/comments/*
+# InstagramCrawler/INSTAGRAM/M5S/Users/followers/*
+# InstagramCrawler/INSTAGRAM/M5S/Users/followings/*
+# InstagramCrawler/INSTAGRAM/M5S/Users/media_likers/*
+# InstagramCrawler/INSTAGRAM/M5S/Users/medias/*
+
+
+# InstagramCrawler/INSTAGRAM/PD/PopularFeed/comments/*
+# InstagramCrawler/INSTAGRAM/PD/PopularFeed/medias/*
+# InstagramCrawler/INSTAGRAM/PD/TimeLineFeed/comments/*
+# InstagramCrawler/INSTAGRAM/PD/TimeLineFeed/medias/*
+# InstagramCrawler/INSTAGRAM/PD/TimeLineFeed/suggested_users/*
+# InstagramCrawler/INSTAGRAM/PD/Users/comments/*
+# InstagramCrawler/INSTAGRAM/PD/Users/followers/*
+# InstagramCrawler/INSTAGRAM/PD/Users/followings/*
+# InstagramCrawler/INSTAGRAM/PD/Users/media_likers/*
+# InstagramCrawler/INSTAGRAM/PD/Users/medias/*
+*.json
+*.jsonl
+media_ids.txt
+
+
+MEDIA/*/Photos/*
+
+
+
